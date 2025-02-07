@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 {
-  "token": "NOPE",
-  "DatabaseURL": "NAH BRO"
-}
-=======
-{
-  "token": "MTE5MDI5NTYwNjQ2NDM0ODIwMQ.G9FOps.hD_F73hwtnppJ9i0wbtV91spOOL64f_N-aE9ZU",
-  "DatabaseURL": "mongodb+srv://illicamagriniluca:1fCRmsKGGi3veTV3@copper.zqdac1d.mongodb.net/?retryWrites=true&w=majority",
+  "token": "",
+  "DatabaseURL": "",
   "OwnerID": "1186990133069758526"
 }
->>>>>>> a75dcb5 (Rimosso node_modules e aggiornato .gitignore)
