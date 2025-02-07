@@ -16,7 +16,7 @@ module.exports = {
             ephemeral: true 
         });
 
-        if (command.developer && interaction.user.id !== "554389950083235840")
+        if (command.developer && require("../../config.json").OwnerID !== interaction.user.id)
         return interaction.reply({ 
             content: "This command is only available to the developer.", 
             ephemeral: true 
